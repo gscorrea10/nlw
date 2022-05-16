@@ -37,7 +37,10 @@ algumas outras funcionalidades.
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Cors , 
     
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nodemailer 
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nodemailer ,
+  
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Insomnia  
+  
 
 
 </div>
