@@ -13,33 +13,33 @@ algumas outras funcionalidades.
 
 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Axios ,
+. Axios ,
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React ,
+. React ,
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Vite ,
+. Vite ,
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Tailwindcss ,
+. Tailwindcss ,
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Typescript ,
+. Typescript ,
     
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Post ,
+. Post ,
 
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Express ,
+. Express ,
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Autoprefixer , 
+. Autoprefixer , 
     
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jest , 
+ . Jest , 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Node.js , 
+. Node.js , 
     
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Prisma , 
+. Prisma , 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Cors , 
+. Cors , 
     
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nodemailer ,
+. Nodemailer ,
   
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Insomnia  
+. Insomnia  
   
 
 
